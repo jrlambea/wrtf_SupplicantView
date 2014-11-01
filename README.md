@@ -1,6 +1,6 @@
 Supplicant View
 ===================
-<img src="app/src/main/res/drawable-xhdpi/icon.png">
+<center><img src="app/src/main/res/drawable-xhdpi/icon.png"></br></center>
 Hi there, this is my very first attempt to make an app for Android, it serves to view and copy the password for the wifi connections that are saved in your phone. I was tired of my friends that ask me for passwords that I not remember.
 
 It's very simple, and needs root permissions.
