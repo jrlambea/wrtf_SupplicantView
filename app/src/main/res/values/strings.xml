@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Supplicant View</string>
+    <string name="tx_title">Tap an ESSID to copy the password.</string>
+    <string name="action_acercade">About...</string>
+    <string name="str_copy_1"></string>
+    <string name="str_copy_2">is copied to clipboard.</string>
+    <string name="str_loaded">Loaded</string>
+    <string name="tx_acercade">
+        1410:\n
+        \t- First version\n\nSupplicant View is an app open source made by a little team who like
+        learn.\n\nVisit wardogstaskforce.com to obtain more information.</string>
+
+</resources>
